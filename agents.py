@@ -46,7 +46,7 @@ import numbers
 
 class Thing:
     """This represents any physical object that can appear in an Environment.
-    You subclass Thing to get the things you want. Each thing can have a
+    You subclass Thing to get the things you want. Each thing can have a∏
     .__name__  slot (used for output only)."""
 
     def __repr__(self):
